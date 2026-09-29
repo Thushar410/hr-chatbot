@@ -1,0 +1,45 @@
+ACME CORP — EMPLOYEE HANDBOOK (SAMPLE)
+This is placeholder content for demo purposes. Replace this file with a
+real client handbook before deploying to actual employees.
+
+SECTION 1: PAID TIME OFF (PTO)
+Full-time employees accrue 15 days of PTO per calendar year, accrued monthly
+at a rate of 1.25 days per month. PTO must be requested at least 5 business
+days in advance through the HR portal, except in cases of illness or
+emergency. Unused PTO up to 5 days may be carried over into the next
+calendar year; any excess is forfeited on December 31.
+
+SECTION 2: REMOTE WORK POLICY
+Employees may work remotely up to 3 days per week with manager approval.
+Fully remote arrangements require VP-level sign-off and are reviewed
+annually. Remote employees must be reachable during core hours, 10:00 AM to
+3:00 PM in their local time zone.
+
+SECTION 3: HEALTH AND BENEFITS
+New employees become eligible for medical, dental, and vision coverage on
+the first day of the month following 30 days of employment. Acme Corp
+covers 80% of the employee premium and 60% of dependent premiums. Open
+enrollment occurs every November for coverage starting the following
+January 1.
+
+SECTION 4: ONBOARDING CHECKLIST (FIRST 2 WEEKS)
+1. Complete I-9 and W-4 forms in the HR portal before your start date.
+2. IT will provision your laptop and accounts on day 1.
+3. Attend new-hire orientation (day 1, 10:00 AM, virtual).
+4. Complete mandatory compliance training within your first 2 weeks
+   (Code of Conduct, Anti-Harassment, Data Security).
+5. Schedule a 30-day check-in with your manager.
+6. Enroll in benefits within 30 days of your start date or you will need to
+   wait until the next open enrollment period.
+
+SECTION 5: EXPENSE REIMBURSEMENT
+Business expenses must be submitted through the expense portal within 30
+days of the purchase, with an itemized receipt attached. Reimbursements
+are processed on the next bi-weekly payroll cycle after approval.
+
+SECTION 6: WORKPLACE CONDUCT AND REPORTING
+Acme Corp has zero tolerance for harassment or discrimination of any kind.
+Employees who experience or witness such conduct should contact Employee
+Relations directly at employee-relations@acme-corp.example or use the
+anonymous ethics hotline. This assistant does not handle these reports —
+it will always direct you to a human in these cases.
