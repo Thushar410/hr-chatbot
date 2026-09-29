@@ -2,7 +2,7 @@
 HR & Onboarding AI Assistant — Streamlit entry point (OpenAI version).
 
 Run with:
-    streamlit run app.py
+    streamlit run hr.py
 """
 
 import os
